@@ -48,11 +48,14 @@ Built using **EJS**, **CSS**, and **JavaScript**, powered by **Node.js & Express
       npm install
  ```
 
-# Start the server<br>
+# Start the npm<br>
    ```bash
       npm start
    ```
-
+# Simulate the EJS code<br>
+   ```bash
+     node index.ejs
+   ```
 # Open in browser<br><br>
 [https://localhost:3000](https://localhost:3000)  
 
