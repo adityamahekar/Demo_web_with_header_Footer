@@ -38,20 +38,20 @@ Built using **EJS**, **CSS**, and **JavaScript**, powered by **Node.js & Express
 ## 🚀 Installation & Setup<br>
 
 1. **Clone the repository**<br>
-   ```bash<br>
-   git clone https://github.com/<your-username>/<repo-name>.git<br>
-   cd <repo-name><br>
+   ```bash
+   git clone https://github.com/<your-username>/<repo-name>.git
+   cd <repo-name>
      ```
 
 2.## Install dependencies<br>
-       ```bash
-      npm install<br>
-      ```
+ ```bash
+      npm install
+ ```
 
 # Start the server<br>
-    ```bash
-      npm start<br>
-      ```
+   ```bash
+      npm start
+   ```
 
 # Open in browser<br><br>
 <link href ="https://localhost:3000">https://localhost:3000</link><br>
