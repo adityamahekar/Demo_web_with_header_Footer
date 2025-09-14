@@ -38,10 +38,10 @@ Built using **EJS**, **CSS**, and **JavaScript**, powered by **Node.js & Express
 ## 🚀 Installation & Setup<br>
 
 1. **Clone the repository**<br>
-   ```bash
+```bash
    git clone https://github.com/<your-username>/<repo-name>.git
    cd <repo-name>
-     ```
+```
 
 2.## Install dependencies<br>
  ```bash
