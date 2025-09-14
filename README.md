@@ -42,15 +42,17 @@ Built using **EJS**, **CSS**, and **JavaScript**, powered by **Node.js & Express
    ```bash<br>
    git clone https://github.com/<your-username>/<repo-name>.git<br>
    cd <repo-name><br>
-
+     ```
 
 2.## Install dependencies<br>
- ```bash<br>
-   npm install
-   <br><br>
+       ```bash
+      npm install<br>
+      ```
 
 # Start the server<br>
-   npm start<br>
+    ```bash
+      npm start<br>
+      ```
 
 # Open in browser<br><br>
 <link href ="https://localhost:3000">https://localhost:3000</link><br>
