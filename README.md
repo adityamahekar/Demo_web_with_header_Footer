@@ -34,7 +34,7 @@ Built using **EJS**, **CSS**, and **JavaScript**, powered by **Node.js & Express
 <br>
 
 <hr>
----
+
 
 ## 🚀 Installation & Setup<br>
 
@@ -44,11 +44,13 @@ Built using **EJS**, **CSS**, and **JavaScript**, powered by **Node.js & Express
    cd <repo-name><br>
 
 
-# Install dependencies<br>
-npm install
-<br><br>
+2.## Install dependencies<br>
+ ```bash<br>
+   npm install
+   <br><br>
+
 # Start the server<br>
-npm start<br>
+   npm start<br>
 
 # Open in browser<br><br>
 <link href ="https://localhost:3000">https://localhost:3000</link><br>
