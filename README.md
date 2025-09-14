@@ -29,7 +29,6 @@ Built using **EJS**, **CSS**, and **JavaScript**, powered by **Node.js & Express
 │ └── js/<br>
 │ └── script.js<br>
 ├── package.json<br>
-├── server.js<br>
 └── README.md<br>
 <br>
 
