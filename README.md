@@ -54,4 +54,5 @@ Built using **EJS**, **CSS**, and **JavaScript**, powered by **Node.js & Express
    ```
 
 # Open in browser<br><br>
-<link href ="https://localhost:3000">https://localhost:3000</link><br>
+[https://localhost:3000](https://localhost:3000)  
+
