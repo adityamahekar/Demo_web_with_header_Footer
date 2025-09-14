@@ -18,9 +18,9 @@ Built using **EJS**, **CSS**, and **JavaScript**, powered by **Node.js & Express
 
 
 .
-├── views/
-│ ├── index.ejs
-│ ├── partials/
+├── views/<br>
+│ ├── index.ejs<br>
+│ ├── partials/<br>
 │ │ ├── header.ejs
 │ │ └── footer.ejs
 ├── public/
