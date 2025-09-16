@@ -63,7 +63,7 @@ Built using **EJS**, **CSS**, and **JavaScript**, powered by **Node.js & Express
    ```
 # Simulate the EJS code<br>
    ```bash
-     node index.ejs
+     node index.js
    ```
 # Open in browser<br><br>
 [https://localhost:3000](https://localhost:3000)  
