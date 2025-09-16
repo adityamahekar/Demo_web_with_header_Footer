@@ -4,6 +4,15 @@
 A simple demo website showcasing a reusable **header and footer** with smooth animations.  <br>
 Built using **EJS**, **CSS**, and **JavaScript**, powered by **Node.js & Express**.<br>
 
+## 📷 Gallery  
+
+| Home Page | About Page |
+|-----------|------------|
+| ![Home Page](hf1.png) | ![About Page](hf2.png) |
+
+| Contact Page |
+|--------------|
+| ![Contact Page](hf3.png) |
 
 <hr>
 ## ✨ Features<br><br>
