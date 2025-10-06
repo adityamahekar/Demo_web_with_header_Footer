@@ -1,6 +1,6 @@
-<hr>
+
 # Demo Website – Animated Header & Footer<br>
-<hr>
+
 A simple demo website showcasing a reusable **header and footer** with smooth animations.  <br>
 Built using **EJS**, **CSS**, and **JavaScript**, powered by **Node.js & Express**.<br>
 
